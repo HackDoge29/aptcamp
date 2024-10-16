@@ -1,0 +1,167 @@
+[
+    {
+      "id": "1",
+      "name": "Jay Z",
+      "genre": "Pop",
+      "address": "0xA123456789abcdefA123456789abcdefA1234567",
+      "avatar": "https://api.dicebear.com/9.x/pixel-art/svg",
+      "tiers": [
+        {
+          "name": "Gold",
+          "price": "0.5 ETH",
+          "benefits": "Exclusive tracks, VIP concert tickets",
+          "contentType": "image",
+          "contentValue": "https://firebasestorage.googleapis.com/v0/b/fancamp436326.appspot.com/o/content%2F1719068941293_IMG_7203.PNG?alt=media&token=800fb713-b3aa-4e9c-870b-1d83db732bad"
+        },
+        {
+          "name": "Silver",
+          "price": "100",
+          "benefits": "Exclusive tracks"
+        }
+      ],
+      "subscribers": [
+        {
+          "tier": "Silver",
+          "address": "0xB123456789abcdefB123456789abcdefB1234567"
+        },
+        {
+          "tier": "Diamond",
+          "address": "0xB123456789abcdefB123456789abcdefB1234567"
+        }
+      ]
+    },
+    {
+      "id": "artist2",
+      "name": "Taylor Swift",
+      "genre": "Rock",
+      "address": "0xB123456789abcdefB123456789abcdefB1234567",
+      "avatar": "https://api.dicebear.com/9.x/lorelei/svg",
+      "tiers": [
+        {
+          "name": "Platinum",
+          "price": "0.8 ETH",
+          "benefits": "Backstage access, VIP concert tickets"
+        },
+        {
+          "name": "Bronze",
+          "price": "0.2 ETH",
+          "benefits": "Exclusive tracks"
+        }
+      ]
+    },
+    {
+      "id": "artist3",
+      "name": "Shakira",
+      "genre": "Jazz",
+      "address": "0xC123456789abcdefC123456789abcdefC1234567",
+      "avatar": "https://api.dicebear.com/9.x/pixel-art/svg?seed=John",
+      "tiers": [
+        {
+          "name": "Diamond",
+          "price": "1 ETH",
+          "benefits": "All-access pass, meet and greet"
+        },
+        {
+          "name": "Silver",
+          "price": "0.4 ETH",
+          "benefits": "Exclusive tracks, VIP concert tickets"
+        }
+      ]
+    },
+    {
+      "id": "Billie Eilish",
+      "name": "Artist Four",
+      "genre": "Hip-Hop",
+      "address": "0xD123456789abcdefD123456789abcdefD1234567",
+      "avatar": "https://api.dicebear.com/9.x/pixel-art/svg?seed=John",
+      "tiers": [
+        {
+          "name": "Gold",
+          "price": "0.6 ETH",
+          "benefits": "Exclusive tracks, backstage access"
+        },
+        {
+          "name": "Bronze",
+          "price": "0.25 ETH",
+          "benefits": "Exclusive tracks"
+        }
+      ]
+    },
+    {
+      "id": "artist5",
+      "name": "Sia",
+      "genre": "Classical",
+      "address": "0xE123456789abcdefE123456789abcdefE1234567",
+      "avatar": "https://api.dicebear.com/9.x/pixel-art/svg?seed=John",
+      "tiers": [
+        {
+          "name": "Platinum",
+          "price": "0.7 ETH",
+          "benefits": "VIP concert tickets, exclusive tracks"
+        },
+        {
+          "name": "Silver",
+          "price": "0.35 ETH",
+          "benefits": "Exclusive tracks"
+        }
+      ]
+    },
+    {
+      "id": "artist6",
+      "name": "Artist Six",
+      "genre": "Electronic",
+      "address": "0xF123456789abcdefF123456789abcdefF1234567",
+      "avatar": "https://example.com/avatar6.jpg",
+      "tiers": [
+        {
+          "name": "Gold",
+          "price": "0.55 ETH",
+          "benefits": "Exclusive tracks, VIP concert tickets"
+        },
+        {
+          "name": "Bronze",
+          "price": "0.3 ETH",
+          "benefits": "Exclusive tracks"
+        }
+      ]
+    },
+    {
+      "id": "artist7",
+      "name": "Artist Seven",
+      "genre": "Country",
+      "address": "0xG123456789abcdefG123456789abcdefG1234567",
+      "avatar": "https://example.com/avatar7.jpg",
+      "tiers": [
+        {
+          "name": "Platinum",
+          "price": "0.75 ETH",
+          "benefits": "Meet and greet, exclusive tracks"
+        },
+        {
+          "name": "Bronze",
+          "price": "0.25 ETH",
+          "benefits": "Exclusive tracks"
+        }
+      ]
+    },
+    {
+      "id": "artist8",
+      "name": "Artist Eight",
+      "genre": "Reggae",
+      "address": "0xH123456789abcdefH123456789abcdefH1234567",
+      "avatar": "https://example.com/avatar8.jpg",
+      "tiers": [
+        {
+          "name": "Diamond",
+          "price": "0.85 ETH",
+          "benefits": "VIP concert tickets, backstage access"
+        },
+        {
+          "name": "Silver",
+          "price": "0.4 ETH",
+          "benefits": "Exclusive tracks"
+        }
+      ]
+    }
+  ]
+  
